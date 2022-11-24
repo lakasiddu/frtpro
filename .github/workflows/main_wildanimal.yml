@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'wildanimal'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0CF7DF189242496AB0ABA438F4FC53CD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CBF4C354A8E04E3C9D765120A7605288 }}
           package: .
