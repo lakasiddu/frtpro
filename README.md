@@ -1,4 +1,5 @@
 Desc: Wildlife refers to undomesticated animal species, but has come to include all organisms that grow or live wild in an area without being introduced by humans.
+All the animals, birds, fish, reptiles and insects are a part of the Earth's rich wildlife. The government of India has undertaken various measures to conserve and protect natural vegetation and wildlife.
 
 Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
 
