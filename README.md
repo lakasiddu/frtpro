@@ -1,5 +1,4 @@
-# wildanimals
-# ✨ wild Animals ✨
+Desc: Wildlife refers to undomesticated animal species, but has come to include all organisms that grow or live wild in an area without being introduced by humans.
 
 Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
 
