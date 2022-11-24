@@ -36,3 +36,5 @@ App Services URL : https://wildanimal.azurewebsites.net
 ![Screenshot 2022-11-24 205302](https://user-images.githubusercontent.com/116721007/203823148-ef2bd96b-8e55-492e-92d7-6a19cbb3b3ad.jpg)
 ![Screenshot 2022-11-24 205223](https://user-images.githubusercontent.com/116721007/203823154-61eabadb-daea-4ea3-b68e-5ede0ffc58f4.jpg)
 
+## App Services Used
+![Screenshot 2022-11-24 211550](https://user-images.githubusercontent.com/116721007/203823549-25468cd3-1f13-4d52-ab6e-9238e8f8d90a.jpg)
