@@ -17,9 +17,19 @@ Project Description : Best Application Could Gives Good Information.
 
 Primary Azure Technology : Static Web Apps, App Services
 
-Static Web App URL : https://happy-smoke-0fa4d0310.2.azurestaticapps.net
+................................................................................................................................................
 
-App Services URL : https://wildanimal.azurewebsites.net
+1,Static Web App URL : https://happy-smoke-0fa4d0310.2.azurestaticapps.net
+
+2,App Services URL : https://wildanimal.azurewebsites.net
+
+
+.................................................................................................................................................
+
+
+project demo video URL: 
+
+
 
 ## My Website Link : https://happy-smoke-0fa4d0310.2.azurestaticapps.net
 
