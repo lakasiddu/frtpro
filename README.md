@@ -38,13 +38,13 @@ project demo video URL:
 ![Screenshot 2022-11-24 205207](https://user-images.githubusercontent.com/116721007/203822988-1d5c1abe-37b1-4e7d-9920-a06601d470dd.jpg)
 ![Screenshot 2022-11-24 205223](https://user-images.githubusercontent.com/116721007/203822992-1d1bf56a-6d9d-42e2-8ba0-ba87d5095ce2.jpg)
 
-## About
+## Home/About
 ![Screenshot 2022-11-24 205246](https://user-images.githubusercontent.com/116721007/203823067-077b0b6c-bf1c-4a7c-ac06-87d432e645ed.jpg)
 ![Screenshot 2022-11-24 205223](https://user-images.githubusercontent.com/116721007/203823055-cb2d669d-5ddd-4e4d-aa31-123ecd55dbf8.jpg)
 
-## Contact US
+## Home/Contact US
 ![Screenshot 2022-11-24 205302](https://user-images.githubusercontent.com/116721007/203823148-ef2bd96b-8e55-492e-92d7-6a19cbb3b3ad.jpg)
 ![Screenshot 2022-11-24 205223](https://user-images.githubusercontent.com/116721007/203823154-61eabadb-daea-4ea3-b68e-5ede0ffc58f4.jpg)
 
-## App Services Used
+## Home/App Services Used
 ![Screenshot 2022-11-24 211550](https://user-images.githubusercontent.com/116721007/203823549-25468cd3-1f13-4d52-ab6e-9238e8f8d90a.jpg)
